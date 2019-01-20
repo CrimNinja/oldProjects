@@ -1,0 +1,10 @@
+*.pro.user*
+.qmake.stash
+Makefile
+Makefile.Debug
+Makefile.Release
+debug/
+itest.txt
+mytest.txt
+release/
+ui_mainwindow.h

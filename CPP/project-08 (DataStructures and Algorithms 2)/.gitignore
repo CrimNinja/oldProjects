@@ -1,0 +1,8 @@
+*.pro.user*
+.qmake.stash
+Makefile
+Makefile.Debug
+Makefile.Release
+datastructures.cc.autosave
+debug/
+
